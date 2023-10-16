@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tom Charon
+# Hi there👋, I'm Tom Charon
 
 ## a full-stack developper from France
 
