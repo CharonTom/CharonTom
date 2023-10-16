@@ -31,6 +31,8 @@
 
 ## 📊 My Github stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charontom&label=Profile%20views&color=0e75b6&style=flat" alt="charontom" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charontom&show_icons=true&theme=dark&locale=en&layout=compact" alt="charontom" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charontom&show_icons=true&theme=dark&locale=en" alt="charontom" /></p>
