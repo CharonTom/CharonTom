@@ -4,14 +4,13 @@
 <h1 align="center">Hi👋, I'm Tom</h1> 
 <h3 align="center">a passionate JavaScript developper from France</h3>
 
-- 🔭 I’m currently working on **Appartment Web Site**
+- 🔭 I’m currently working on an **Appartment Web Site**
 
 - 🌱 I’m currently learning **Next.js**
 
 - 📫 You can reach me at **charon.s.tom@gmail.com**
 
-- 🫱🏼‍🫲🏽 I'am looking for collaborate
-
+- 🫱🏼‍🫲🏽 I'am looking to collaborate
 
 ## 👉 My Technos
 
