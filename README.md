@@ -1,8 +1,18 @@
-<h1 align="center">Hi there👋</h1> 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h3 align="center">I'm Tom, a full-stack developper from France</h3>
+<h1 align="center">Hi👋, I'm Tom</h1> 
+<h3 align="center">a passionate JavaScript developper from France</h3>
+
+<br/>
+  
+- 🔭 I’m currently working on **Appartment Web Site**
+
+- 🌱 I’m currently learning **Next.js**
+
+- 📫 You can reach me at **charon.s.tom@gmail.com**
+
+- 🫱🏼‍🫲🏽 I'am looking for collaborate
 
 
 ## 👉 My Technos
