@@ -31,10 +31,9 @@
 
 ## 📊 My Github stats
 
+![](https://github-readme-stats.vercel.app/api?username=CharonTom&theme=algolia&hide_border=false&include_all_commits=true&card_width=280&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=CharonTom&theme=algolia&card_width=410&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CharonTom&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charontom&label=Profile%20views&color=0e75b6&style=flat" alt="charontom" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charontom&show_icons=true&theme=dark&locale=en&layout=compact" alt="charontom" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charontom&show_icons=true&theme=dark&locale=en" alt="charontom" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charontom&theme=dark" alt="charontom" /></p>
