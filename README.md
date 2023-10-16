@@ -1,9 +1,6 @@
 # Hi 👋, I'm Tom Charon
 
-## a self-taught web developper from France
-
-- 🌱 I’m currently learning **Next.js**
-- 📫 You can contact me at **charon.s.tom@gmail.com**
+## a full-stack developper from France
 
 ## 👉 My Stack
 
@@ -29,6 +26,7 @@
 ![FIGMA](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+## 📊 My Github stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charontom&show_icons=true&locale=en&layout=compact" alt="charontom" /></p>
 
