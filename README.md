@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at **charon.s.tom@gmail.com**
 
-- 🫱🏼‍🫲🏽 I'am looking to collaborate
+- 🫱🏼‍🫲🏽 I'm open to collaboration opportunities.
 
 ## 👉 My Technos
 
