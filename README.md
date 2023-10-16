@@ -1,3 +1,5 @@
+![banner](./bannerHello.png)
+
 # Hi there👋, I'm Tom Charon
 
 ## a full-stack developper from France
