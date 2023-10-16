@@ -3,9 +3,7 @@
 </div>
 <h1 align="center">Hi👋, I'm Tom</h1> 
 <h3 align="center">a passionate JavaScript developper from France</h3>
-
-<br/>
-  
+<br/> 
 - 🔭 I’m currently working on **Appartment Web Site**
 
 - 🌱 I’m currently learning **Next.js**
