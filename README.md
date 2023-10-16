@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h1 align="center">Hi👋, I'm Tom</h1> 
-<h3 align="center">a passionate JavaScript developper from France</h3>
+<h3 align="center">a passionate JavaScript developer from France</h3>
 
 - 🔭 I’m currently working on an **Appartment Web Site**
 
