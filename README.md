@@ -1,11 +1,8 @@
 <h1 align="center">Hi there👋</h1> 
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
 <h3 align="center">I'm Tom Charon, a full-stack developper from France</h3>
-
 
 
 ## 👉 My Stack
@@ -34,8 +31,8 @@
 
 ## 📊 My Github stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charontom&show_icons=true&locale=en&layout=compact" alt="charontom" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charontom&show_icons=true&theme=dark&locale=en&layout=compact" alt="charontom" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charontom&show_icons=true&locale=en" alt="charontom" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charontom&show_icons=true&theme=dark&locale=en" alt="charontom" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charontom&" alt="charontom" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charontom&theme=dark" alt="charontom" /></p>
