@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h3 align="center">I'm Tom Charon, a full-stack developper from France</h3>
+<h3 align="center">I'm Tom, a full-stack developper from France</h3>
 
 
 ## 👉 My Stack
