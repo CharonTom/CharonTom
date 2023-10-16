@@ -1,8 +1,6 @@
 ![banner](./bannerHello.png)
 
-# Hi there👋, I'm Tom Charon
-
-## a full-stack developper from France
+## Welcome on my Github ! I'm Tom Charon, a full-stack developper from France
 
 ## 👉 My Stack
 
