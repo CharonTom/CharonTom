@@ -42,7 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=charontom&theme=algolia&hide_border=false&include_all_commits=true&card_width=280&count_private=true" alt="charontom" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charontom&theme=algolia&card_width=410&hide_border=false" alt="charontom" /> </p>
 <p align="center">
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CharonTom&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)alt="charontom" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=charontom&label=Profile%20views&color=0e75b6&style=flat" alt="charontom" /> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharonTom&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact>
+  </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=charontom&label=Profile%20views&color=0e75b6&style=flat" alt="charontom" /> </p>
 
 
