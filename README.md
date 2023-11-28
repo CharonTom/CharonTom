@@ -39,7 +39,6 @@
 
 ## 📊 My Github stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CharonTom&theme=algolia&hide_border=false&include_all_commits=true&card_width=280&count_private=true" alt="charontom" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharonTom&theme=algolia&card_width=410&hide_border=false" alt="charontom" /> 
 </p>
 <p align="center">
