@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on an **Appartment Web Site**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next and Shadcn**
 
 - 📫 You can reach me at **charon.s.tom@gmail.com**
 
