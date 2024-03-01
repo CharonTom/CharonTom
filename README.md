@@ -6,9 +6,9 @@
 <h3 align="center">A passionate JavaScript developer from France</h3>
 <br/>
 
-- 🔭 I’m currently working on an **Appartment Web Site**
+- 🔭 I’m currently working on an **Software-as-a-Service app with AI features and a payments and credits system**
 
-- 🌱 I’m currently learning **Next and Shadcn**
+- 🌱 I’m currently learning **Next 14, Stripe and Shadcn**
 
 - 📫 You can reach me at **charon.s.tom@gmail.com**
 
